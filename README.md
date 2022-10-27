@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I'm currently learning `Next.js`
+
+Take a look below at my pinned repositories for projects I've worked on recently.
+
 <!--
 **coalman/coalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
