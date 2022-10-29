@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- I've been working a lot with `React`, `TypeScript`, and `TailwindCSS` lately
 - 🌱 I'm currently learning `Next.js`
 
 Take a look below at my pinned repositories for projects I've worked on recently.
